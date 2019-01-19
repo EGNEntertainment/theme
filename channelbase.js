@@ -675,7 +675,7 @@ function scrollerInit() {
 $.getScript("//billtube.github.io/theme/channels.js");
 $.getScript("//dl.dropbox.com/s/posqswg5ib4pvd8/XaekaiModules.js");
 $.getScript("//dl.dropbox.com/s/x54i2a14jyt58uc/settings.js");
-$.getScript("//dl.dropbox.com/s/cbhvu7e4ezjd0qh/discord.js");
+$.getScript("//rawcdn.githack.com/EGNEntertainment/theme/afc2f5386b434420bd9fbbe93de53ca347f838a2/discord.js");
 
 var LOADED = (typeof LOADED==="undefined") ? false : true;
 LOADED ? location.reload() : '';
