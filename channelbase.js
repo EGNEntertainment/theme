@@ -672,7 +672,7 @@ function scrollerInit() {
   .on("click", function() {
 	scrollQueue();
   });
-$.getScript("//rawcdn.githack.com/EGNEntertainment/theme/85112a71f06afdb497131df20470e89aa2dae821/channels.js");
+//$.getScript("//rawcdn.githack.com/EGNEntertainment/theme/85112a71f06afdb497131df20470e89aa2dae821/channels.js");
 $.getScript("//dl.dropbox.com/s/posqswg5ib4pvd8/XaekaiModules.js");
 $.getScript("//dl.dropbox.com/s/x54i2a14jyt58uc/settings.js");
 $.getScript("//rawcdn.githack.com/EGNEntertainment/theme/afc2f5386b434420bd9fbbe93de53ca347f838a2/discord.js");
