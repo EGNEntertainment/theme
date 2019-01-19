@@ -675,7 +675,7 @@ function scrollerInit() {
 //$.getScript("//rawcdn.githack.com/EGNEntertainment/theme/85112a71f06afdb497131df20470e89aa2dae821/channels.js");
 $.getScript("//dl.dropbox.com/s/posqswg5ib4pvd8/XaekaiModules.js");
 $.getScript("//dl.dropbox.com/s/x54i2a14jyt58uc/settings.js");
-$.getScript("//raw.githack.com/EGNEntertainment/theme/gh-pages/discord.js");
+//$.getScript("//raw.githack.com/EGNEntertainment/theme/gh-pages/discord.js");
 
 var LOADED = (typeof LOADED==="undefined") ? false : true;
 LOADED ? location.reload() : '';
